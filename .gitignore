@@ -1,0 +1,19 @@
+# Local env and dependency folders
+node_modules/
+dist/
+.vercel/
+.vercelignore
+
+# Scratch scripts and temporary files
+.agents/
+.gemini/
+scratch/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Development leftovers (just in case)
+lighthouse-report.json
+lighthouse-report-after.json
+wodniack.dev.har
